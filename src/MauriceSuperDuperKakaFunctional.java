@@ -8,6 +8,8 @@ public class MauriceSuperDuperKakaFunctional {
         List<Integer> elements = new ArrayList<Integer>();
         List<Bin> bins = new ArrayList<Bin>();
 
+        // Test
+        
         elements.add(3);
 
         elements.add(2);
